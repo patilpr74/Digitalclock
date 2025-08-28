@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#clock {
+  color: cyan;
+  font-size: 4rem;
+}
